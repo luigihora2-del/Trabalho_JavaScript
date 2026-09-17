@@ -1,6 +1,6 @@
 # Trabalho Avaliativo - Desenvolvimento Web 🚀
 
-**Aluno:** [Seu Nome Completo]  
+**Aluno:** Luigi Prudêncio Hora  
 **Curso:** Técnico em Informática  
 **Instituição:** Colégio Técnico de Bom Jesus (CTBJ - UFPI)  
 **Professor:** Clécio Sousa  
